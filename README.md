@@ -40,3 +40,7 @@ vault operator unseal
 ```
 Последнюю команду требуется выполнить 3 раза и ввести три любых (разных) Unseal Key (например Unseal Key 1, Unseal Key 4, Unseal Key 2).
 
+
+<img width="1160" alt="image" src="https://github.com/user-attachments/assets/d7268456-89c9-4e9f-8c02-f63106e380f1" />
+
+
